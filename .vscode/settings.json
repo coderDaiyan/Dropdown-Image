@@ -1,0 +1,6 @@
+// Live Server settings
+{
+  "liveServer.settings.port": 0,
+  "liveServer.settings.CustomBrowser": "firefox",
+  "liveServer.settings.host": "localhost"
+}
